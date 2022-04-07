@@ -14,11 +14,7 @@
   text-align: right;
   padding: 5px 5px;
   text-decoration: none;
-  
-
-
-
-  
+   
 }
 
 .headerli a:hover {
@@ -40,6 +36,7 @@
   margin: 0 auto;
   margin-top: -77px;
   width: 582px;
+  border-radius: 44px;
 }
 
 .search-area:hover {
@@ -75,6 +72,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   display: flex;
   flex: 1;
   flex-wrap: wrap;
+
 }
 
 .input-area {
@@ -85,6 +83,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   line-height: 34px;
   height: 34px !important;
   display: block;
+   
 }
 
 .input {
@@ -99,6 +98,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   font: 16px arial, sans-serif;
   line-height: 34px;
   height: 34px !important;
+  width: 480px;
   text-rendering: auto;
   letter-spacing: normal;
   word-spacing: normal;
@@ -108,6 +108,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: start;
   appearance: textfield;
   cursor: text;
+  border: none;
 }
 
 .googlesearch {
@@ -167,4 +168,37 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   width: 50px;
   height: 50px;
   border-radius: 50%;
+}
+
+.voice-1 {
+  display: flex;
+  flex: 0 0 auto;
+  margin-top: -5px;
+  align-items: stretch;
+  flex-direction: row;
+}
+
+.voice-2 {
+
+  flex: 1 0 auto;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  border: 0;
+  background: transparent;
+  outline: none;
+  padding: 0 8px;
+  width: 24px;
+  line-height: 44px;
+}
+
+.voice-2 img {
+
+  height: 24px;
+  width: 24px;
+  background-size: 24px;
+  vertical-align: middle;
+  cursor: pointer;
+  line-height: 44px;
+  
 }
