@@ -1,7 +1,7 @@
-*Frontend Bootcamp Hazırlık Programı 3.Hafta
+*Kodluyoruz Frontend Wep Development Bootcamp
 
-*Ödev 3
+*Homework
 
-*Google Ana Sayfası Tasarlamak
+*Design Google Homepage
 
-![Google Ana Sayfa](assets/1.PNG)
+![Google Homepage](assets/1.PNG)

@@ -3,10 +3,8 @@
   margin: 10px;
   overflow: hidden;
   margin-right: 16px;
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
   font-size: 13px;
-
-  
 }
 
 .headerli a {
@@ -16,7 +14,6 @@
   padding: 5px 5px;
   text-decoration: none;
   float: right;
-   
 }
 
 .headerli a:hover {
@@ -42,7 +39,7 @@
 }
 
 .search-area:hover {
-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.24), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
 }
 
 .search {
@@ -74,7 +71,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   display: flex;
   flex: 1;
   flex-wrap: wrap;
-
 }
 
 .input-area {
@@ -85,7 +81,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   line-height: 34px;
   height: 34px !important;
   display: block;
-   
 }
 
 .input {
@@ -125,13 +120,9 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   border: 1px solid #f2f2f2;
   border-radius: 4px;
   color: #5F6368;
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
   font-size: 14px;
   height: 36px;
-  
-   
-    
-    
 }
 
 .feelinglucky {
@@ -145,7 +136,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   border: 1px solid #f2f2f2;
   border-radius: 4px;
   color: #5F6368;
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
   font-size: 14px;
   height: 36px;
 }
@@ -162,7 +153,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   margin-left: -8px;
   line-height: 10px;
   background: #f2f2f2;
-  
 }
 
 .footerli {
@@ -202,7 +192,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .voice-2 {
-
   flex: 1 0 auto;
   display: flex;
   cursor: pointer;
@@ -216,13 +205,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .voice-2 img {
-
   height: 24px;
   width: 24px;
   background-size: 24px;
   vertical-align: middle;
   cursor: pointer;
   line-height: 44px;
-
 }
-
