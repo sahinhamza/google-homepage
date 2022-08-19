@@ -1,7 +1,7 @@
-*Kodluyoruz Frontend Wep Development Bootcamp
+* Kodluyoruz Frontend Wep Development Bootcamp
 
-*Homework
+* Homework
 
-*Design Google Homepage
+* Design Google Homepage
 
 ![Google Homepage](assets/1.PNG)
