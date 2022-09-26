@@ -1,7 +1,16 @@
-* Kodluyoruz Frontend Wep Development Bootcamp
 
-* Homework
+## Table of contents
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Display](#display)
 
-* Design Google Homepage
+## General info
+Google homepage design.
+	
+## Technologies
+Project is created with:
+* CSS
+* HTML5
 
+## Display
 ![Google Homepage](assets/1.PNG)
